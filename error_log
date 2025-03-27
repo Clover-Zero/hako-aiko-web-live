@@ -1,0 +1,15 @@
+[20-Feb-2025 15:24:02 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, int given in /home/hakoaiko/public_html/feed.php:16
+Stack trace:
+#0 /home/hakoaiko/public_html/feed.php(16): usort()
+#1 {main}
+  thrown in /home/hakoaiko/public_html/feed.php on line 16
+[20-Feb-2025 15:24:35 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, int given in /home/hakoaiko/public_html/feed.php:16
+Stack trace:
+#0 /home/hakoaiko/public_html/feed.php(16): usort()
+#1 {main}
+  thrown in /home/hakoaiko/public_html/feed.php on line 16
+[20-Feb-2025 15:29:56 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, null given in /home/hakoaiko/public_html/feed.php:16
+Stack trace:
+#0 /home/hakoaiko/public_html/feed.php(16): usort()
+#1 {main}
+  thrown in /home/hakoaiko/public_html/feed.php on line 16

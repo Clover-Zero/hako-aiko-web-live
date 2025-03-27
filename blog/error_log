@@ -1,0 +1,39 @@
+[14-Jun-2024 07:57:26 Asia/Jakarta] PHP Warning:  file_put_contents(/home/hakoaiko/public_html/blog/cache/downloadInfo.json): Failed to open stream: No such file or directory in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/CacheOneFile.php on line 46
+[14-Jun-2024 08:06:33 Asia/Jakarta] PHP Warning:  Undefined variable $desc in /home/hakoaiko/public_html/blog/themes/aiko/layout.html.php on line 26
+[14-Jun-2024 08:06:42 Asia/Jakarta] PHP Warning:  Undefined variable $desc in /home/hakoaiko/public_html/blog/themes/aiko/layout.html.php on line 26
+[14-Jun-2024 08:07:57 Asia/Jakarta] PHP Warning:  Undefined variable $desc in /home/hakoaiko/public_html/blog/themes/aiko/layout.html.php on line 26
+[30-Jun-2024 07:21:51 Asia/Jakarta] PHP Warning:  file_put_contents(/home/hakoaiko/public_html/blog/cache/downloadInfo.json): Failed to open stream: No such file or directory in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/CacheOneFile.php on line 46
+[30-Jun-2024 07:22:19 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[30-Jun-2024 07:22:26 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[30-Jun-2024 07:22:32 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[01-Jul-2024 22:41:38 Asia/Jakarta] PHP Warning:  file_put_contents(/home/hakoaiko/public_html/blog/cache/downloadInfo.json): Failed to open stream: No such file or directory in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/CacheOneFile.php on line 46
+[01-Jul-2024 22:41:46 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 01:35:05 Asia/Jakarta] PHP Warning:  file_put_contents(/home/hakoaiko/public_html/blog/cache/downloadInfo.json): Failed to open stream: No such file or directory in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/CacheOneFile.php on line 46
+[04-Aug-2024 01:35:32 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 01:35:35 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 01:35:40 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 01:35:44 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 01:35:50 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 01:36:08 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 01:38:29 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[04-Aug-2024 22:28:13 Asia/Jakarta] PHP Warning:  file_put_contents(/home/hakoaiko/public_html/blog/cache/downloadInfo.json): Failed to open stream: No such file or directory in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/CacheOneFile.php on line 46
+[04-Aug-2024 22:28:35 Asia/Jakarta] PHP Warning:  foreach() argument must be of type array|object, null given in /home/hakoaiko/public_html/blog/system/vendor/kanti/hub-updater/src/HubUpdater.php on line 297
+[05-Sep-2024 23:29:20 Asia/Jakarta] PHP Warning:  Undefined property: stdClass::$avatar in /home/hakoaiko/public_html/blog/system/admin/views/layout.html.php on line 64
+[05-Sep-2024 23:35:38 Asia/Jakarta] PHP Warning:  Undefined array key "https://hako-aiko.haliya.net/blog/" in /home/hakoaiko/public_html/blog/system/htmly.php on line 2151
+[05-Sep-2024 23:35:38 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/hakoaiko/public_html/blog/system/htmly.php on line 2151
+[06-Dec-2024 03:03:52 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:04:52 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:05:52 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:06:52 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:07:52 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:08:53 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:09:53 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:10:54 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:11:55 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:12:55 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:13:55 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:14:55 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:15:55 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:20:58 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:21:57 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
+[06-Dec-2024 03:22:57 Asia/Jakarta] PHP Warning:  Undefined variable $response in /home/hakoaiko/public_html/blog/system/htmly.php on line 987
